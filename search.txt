@@ -1,0 +1,8 @@
+For URL Changes with enhanced domains enabled, search for: ("use regular expression" enabled) 
+.documentforce.com|.visualforce.com|.visual.force.com|.visual.sfdc-|.container.lightning.com|.salesforce-communities.com|.forceusercontent.com|c.my.force-user-content.com|.content.force.com|.content.sfdc-|--sitestudio.|--livepreview.|--sitepreview.
+
+/[ExperienceCloud site name]
+
+/[SF site name]
+
+[sandboxname]
